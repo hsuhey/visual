@@ -3,6 +3,15 @@ body{
     text-align:center;
     font-family: "Arial";
 }
+#cabecera
+{
+  background: #33a; 
+  box-shadow: 0px 5px 30px 0px rgba();
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em; 
+}
 #conteiner
 {
 width: 70%;
